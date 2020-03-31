@@ -1,9 +1,10 @@
-# Your Project's Name
+# Art Club
+A web site designed for the local art community.
+A place to connect, share news and views, meet-ups.
+The site will also act as a repository for 'how-to' articles of interest to members.
+The site will eventually aid the organisation of an annual exhibition for members.
 
-One or two paragraphs providing an overview of your project.
 
-Essentially, this part is your sales pitch.
- 
 ## UX
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
