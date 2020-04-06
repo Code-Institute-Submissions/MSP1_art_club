@@ -11,6 +11,11 @@ header {
 
 .heading {
     margin-left: 50px;
+
+}
+.header-text{ 
+    font-weight: 800;
+    font-size: 100px;
 }
 
 .logo {
@@ -23,3 +28,10 @@ header {
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+
+/*
+.logo image {
+    max-width:1em;
+    max-height: 1em;
+}
+*/

@@ -10,7 +10,17 @@ The site will eventually aid the organisation of an annual exhibition for member
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+- As a curious browser, possibly finding site from Google Search, I want to find out what this site is for.
+- As a viewer of the site would like to see planned activities and exhibits run by the art club.
+- As an interested art viewer, would like to see examples of artists work.
+
+- As an amateur artist or hobbyist, interested in joining fellow practisioners, would like to join as a member.
+- As a practising artist would like to see opporunities to exhibit my art or tutor fellow artists.
+
+- As a member, would like to seek opinions from fellow members of my art (critique), and be able to pass my critique.
+- As a member, would like to see a bulletin board for more general comments, additional information, and links to interesting articles.
+
+
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
