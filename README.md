@@ -91,7 +91,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from the author as examples of  the images needed as examples.
+- The photos used in this site were obtained from the author as examples of  the images needed.
 
 ### Acknowledgements
 
