@@ -42,8 +42,13 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+In this section, you should mention all of the languages, frameworks, libraries, 
+and any other tools that you have used to construct this project. 
+For each, provide its name, a link to its official site and a short sentence of why it was used.
 
+- [Bootstrap](https://getbootstrap.com/) to provide a mobile-first framework for the site.
+- [Font Awesome](https://fontawesome.com/) to provide additional icons
+- [Hover](http://ianlunn.github.io/Hover/) to provide hover effects to enhance user experience
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
@@ -86,7 +91,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from the author as examples of  the images needed as examples.
 
 ### Acknowledgements
 
