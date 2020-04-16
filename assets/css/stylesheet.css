@@ -36,9 +36,28 @@ header {
     background-color: #d9e6f3;
 }
 
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
+
 /*
 .logo image {
     max-width:1rem;
     max-height: 1rem;
 }
 */
+
+/*--------------------------------------------Footer   */
+
+footer {
+    background-color: #d9e6f3;   
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
