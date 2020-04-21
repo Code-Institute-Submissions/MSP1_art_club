@@ -36,6 +36,19 @@ header {
     background-color: #d9e6f3;
 }
 
+/* navigation */
+.ui-menu-color-home {
+ background-color: #FF4C00;
+}
+.ui-menu-color-activity{
+     background-color: #FF9000;
+}
+.ui-menu-color-exhibition{
+    background-color: #0B5FA5;
+}
+.ui-menu-color-joinus{
+    background-color: #00AE68;
+}
 
 #nav {
     margin: 0;
