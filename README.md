@@ -9,7 +9,7 @@ The site will eventually aid the organisation of an annual exhibition for member
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+User Stories:
 - As a curious browser, possibly finding site from Google Search, I want to find out what this site is for.
 - As a viewer of the site would like to see planned activities and exhibits run by the art club.
 - As an interested art viewer, would like to see examples of artists work.
@@ -31,14 +31,18 @@ In this section, you should go over the different parts of your project, and des
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Image carousel of members' art work found on the home page [index.html]
+- 
+- 
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Membership form to be linked to a back-end database of members and their membership dues.
+- An administrators page that can easily access and query the back-end member list, access to the page being password protected.
+- An image repository that can be searched on keyword, title and creator name.
 
 ## Technologies Used
 
