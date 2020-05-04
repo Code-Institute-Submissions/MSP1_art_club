@@ -20,7 +20,37 @@ User Stories:
 - As a member, would like to seek opinions from fellow members of my art (critique), and be able to pass my critique.
 - As a member, would like to see a bulletin board for more general comments, additional information, and links to interesting articles.
 
+### Strategy
 
+To provide an accessible site for the club's work and introduction to it's members, so that further members will be attracted.
+
+
+### Scope
+
+By it's nature the site will be mainly image based, with future back-end server development of member's lists and lists of works for reference and use for exhibitions.
+
+### Structure
+
+Image information, member information linked to image of works.
+
+### Skeleton
+
+The home page will have the show the main attractions, a selection of the member's work to view.
+A brief introduction imparting the nature of the get-togethers of the club, culminating in the club's summer exhibition of works to show the general public.
+
+An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved.
+
+A separate page of activities run by the clubs will give a timeline of dates, times, places and brief titles of ativities that the members and public can attend.
+
+An application for membership page will prompt for the relevant information, such as name, contact number and email, maybe reason to join.
+
+
+### Surface
+
+The header and footer background colours for all pages will be a uniform colour that helps identify the site.
+A light blue, identified as: #d9e6f3.
+
+The font will be Roboto with a back-up of Arial.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 Public link to wireframes used as mockups : [balsamiq](https://balsamiq.cloud/sdh3q7g/pswpdsk)
