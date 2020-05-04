@@ -13,6 +13,7 @@ header {
 .heading {
     margin-left: 5px;
     padding: 0;
+    background-color: #d9e6f3;
 }
 .header-text{ 
     font-weight: 800;
@@ -33,7 +34,6 @@ header {
 /* overriding bootstrap class properties */
 .jumbotron {
     padding:1rem;
-    background-color: #d9e6f3;
     margin: 0;
 }
 
