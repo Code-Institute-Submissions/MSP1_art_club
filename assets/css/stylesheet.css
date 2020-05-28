@@ -42,7 +42,7 @@ header {
     background-color: #D9005B;
 }
 .ui-menu-color-activity{
-     background-color: #FF2C00;
+     background-color: rgba(209, 139, 93, 0.322);
 }
 .ui-menu-color-exhibition{
     background-color: #00B945;
@@ -72,6 +72,15 @@ header {
 }
 */
 
+/*--------------------------------------------Activities */
+.activities {
+    /*background-color: #FF2C00; */
+    background-color:rgba(209, 139, 93, 0.322);
+}
+/*--------------------------------------------Exhibition  */
+.exhibition {
+    background-color:  rgba(160, 229, 185, 0.596);
+}
 /*--------------------------------------------Form */
 
 .joinusform {

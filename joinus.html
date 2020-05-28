@@ -95,49 +95,77 @@
 			<div class="row">
 				<div class="col-12 col-sm">
 					<h2>Join Us</h2>
+					<p>We will communicate mainly by email and through this website. We ask for your contact phone
+						number, preferably your mobile number, for such eventualities as cancellations to advertised
+						events, or organisational issues with exhibits. We may later ask for your postal address only if
+						material needs to be returned.</p>
 					<form class="joinusform">
-						<div class="form-group col-md-8">
-							<label for="formForenameInput">Forename: </label>
-							<input type="text" class="form-control" id="formForenameInput" placeholder="Forename" width="20">
 
-							<label for="formSurnameInput">Family Name: </label>
-							<input type="text" class="form-control" id="formSurnameInput" placeholder="Surname" width="20">
-                        </div>
-
-							<div class="form-group col-md-10">
-								<label for="formEmail">Email address:</label>
-								<input type="email" class="form-control" id="formEmail" aria-describedby="emailHelp" placeholder="email@address">
-								<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+						<div class="form-row">
+							<div class="col-md-2">
+								<label for="formForenameInput">Forename: </label>
 							</div>
-							<div class="form-group col-md-10">
-								<label for="contactNumber">Phone Number:</label>
-								<input type="number" class="form-control" id="contactNumber" aria-describedby="contactHelp" placeholder="Contact Number">
-                                <small id="contactHelp" class="form-text text-muted">Your mobile number without spaces, please.</small>
+							<div class="col-md-3">
+								<input type="text" class="form-control" id="formForenameInput" placeholder="Forename" width="20">
+                            </div>
+						</div>
+
+							<div class="form-row">
+								<div class="col-md-2">
+									<label for="formSurnameInput">Family Name: </label>
+								</div>
+								<div class="col-md-3">
+									<input type="text" class="form-control" id="formSurnameInput" placeholder="Surname" width="20">
+                                </div>
+							</div>
+
+							<div class="form-row">
+									<div class="col-md-2">
+										<label for="formEmail">Email address:</label>
+									</div>
+									<div class="col-md-9">
+										<input type="email" class="form-control" id="formEmail" aria-describedby="emailHelp" placeholder="email@address">
+										<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+									</div>
+							</div>
+
+							<div class="form-row">
+									<div class="col-md-2">
+										<label for="contactNumber">Phone Number:</label>
+									</div>
+									<div class="col-md-8">
+										<input type="number" class="form-control" id="contactNumber" aria-describedby="contactHelp" placeholder="Contact Number">
+										<small id="contactHelp" class="form-text text-muted">Your mobile number without spaces, please.</small>
+									</div>
+							</div>
+
+                            <div class="form-group">
+							    <div class="form-check form-check-inline col-md-3">
+									<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+									<label class="form-check-label" for="inlineRadio1">New Member</label>
+							    </div>
+
+								<div class="form-check form-check-inline col-md-3">
+									<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+									<label class="form-check-label" for="inlineRadio2">Renewal</label>
+								</div>
                             </div>
 
-							<div class="form-group">
-									<div class="form-check form-check-inline">
-										<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
-										<label class="form-check-label" for="inlineRadio1">New Member</label>
-									</div>
-									<div class="form-check form-check-inline">
-										<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-										<label class="form-check-label" for="inlineRadio2">Renewal</label>
-									</div>
-							</div>
+                            <div class="form-group">
+								<div class="form-check form-check-inline col-md-3">
+									<input type="checkbox" class="form-check-input" id="familyCheck">
+									<label class="form-check-label" for="familyCheck">Family Membership</label>
+								</div>
+								<div class="form-check form-check-inline col-md-3">
+									<input type="checkbox" class="form-check-input" id="exhibitCheck">
+									<label class="form-check-label" for="exhibitCheck">Do you want to Exhibit?</label>
+								</div>
+                            </div>
 
-							<div class="form-group">
-									<div class="form-group form-check-inline">
-										<input type="checkbox" class="form-check-input" id="familyCheck">
-										<label class="form-check-label" for="familyCheck">Family Membership</label>
-									</div>
-									<div class="form-group form-check-inline">
-										<input type="checkbox" class="form-check-input" id="exhibitCheck">
-										<label class="form-check-label" for="exhibitCheck">Do you want to Exhibit?</label>
-									</div>
-							</div>
-                            <hr>
-							<button type="submit" class="btn btn-primary">Submit</button>
+								<div class="form-group col-md-3">
+									<hr>
+									<button type="submit" class="btn btn-primary">Submit</button>
+								</div>
 					</form>
 				</div>
 			</div>
