@@ -78,6 +78,44 @@ header {
     /*background-color: #FF2C00; */
     background-color:rgba(209, 139, 93, 0.322);
 }
+
+.activity-timeline {
+    position: relative;
+    border-left: 1px solid;
+    padding: 4em,2em,0em,2em;
+}
+
+.activity-timeline h4 {
+    margin: 0;
+    padding: 0;
+}
+.activity-timeline p {
+    margin: 0;
+    padding: 0;
+}
+.activity-timeline:before{
+    content: attr(data-date);
+    position: absolute;
+    display: block;
+    left: 2em;
+    top: 3em;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+    font-family: Roboto, Arial, sans-serif;
+}
+.activity-timeline:after {
+    width: 20px;
+    height:20px;
+    display:block;
+    position:absolute;
+    border-radius: 20px;
+    content: '';
+    left: -5px;
+    top: 2.4em;
+    background-color: #0c0c0cfa;
+}
+
 /*--------------------------------------------Exhibition  */
 .exhibition {
     background-color:  rgba(160, 229, 185, 0.596);
