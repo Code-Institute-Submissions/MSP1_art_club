@@ -88,31 +88,35 @@ header {
 .activity-timeline h4 {
     margin: 0;
     padding: 0;
+    margin-left: 3em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
 }
 .activity-timeline p {
     margin: 0;
     padding: 0;
+    margin-left: 3em;
 }
 .activity-timeline:before{
     content: attr(data-date);
     position: absolute;
     display: block;
     left: 2em;
-    top: 3em;
+    top: -0.7em;
     font-weight: 600;
     padding: 0;
     margin: 0;
     font-family: Roboto, Arial, sans-serif;
 }
 .activity-timeline:after {
-    width: 20px;
-    height:20px;
+    width: 15px;
+    height:15px;
     display:block;
     position:absolute;
-    border-radius: 20px;
+    border-radius: 15px;
     content: '';
     left: -5px;
-    top: 2.4em;
+    top: -0.7em;
     background-color: #0c0c0cfa;
 }
 
