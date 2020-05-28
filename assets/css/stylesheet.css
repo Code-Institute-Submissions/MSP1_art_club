@@ -45,7 +45,8 @@ header {
      background-color: rgba(209, 139, 93, 0.322);
 }
 .ui-menu-color-exhibition{
-    background-color: #00B945;
+    /* background-color: #00B945; */
+    background-color:  rgba(160, 229, 185, 0.596);
 }
 .ui-menu-color-joinus{
     background-color: #84E900;
