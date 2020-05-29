@@ -118,6 +118,8 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
+The project is built to a master branch deployed to: https://mikedjgreen.github.io/MSP1_art_club/ .
+
 
 ## Credits
 
