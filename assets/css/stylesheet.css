@@ -37,7 +37,7 @@ header {
     margin: 0;
 }
 
-/* navigation */
+/*-------------------------------------------- navigation */
 .ui-menu-color-home {
     background-color: #D9005B;
 }
@@ -66,14 +66,9 @@ header {
         margin-right: 0;
 }
 
-/*
-.logo image {
-    max-width:1rem;
-    max-height: 1rem;
-}
-*/
 
-/*--------------------------------------------Activities */
+
+/*-------------------------------------------- Activities */
 .activities {
     /*background-color: #FF2C00; */
     background-color:rgba(209, 139, 93, 0.322);
@@ -128,6 +123,7 @@ header {
 
 .joinusform {
     background-color: #84E900;
+    padding: 5px;
 }
 
 /*--------------------------------------------Footer   */

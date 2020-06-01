@@ -32,18 +32,23 @@ By it's nature the site will be mainly image based, with future back-end server 
 ### Structure
 
 Image information, member information linked to image of works.
+Images for exhibitions will be located in an image directory specified by the exhibition's year.
+Any images associated with activities will be located in a spearate directory for activities
 
 ### Skeleton
 
 The home page will have the show the main attractions, a selection of the member's work to view.
 A brief introduction imparting the nature of the get-togethers of the club, culminating in the club's summer exhibition of works to show the general public.
 
-An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved.
+An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved. This could be updated with images of submissions for the up coming exhibition to spur other to join/participate.
 
 A separate page of activities run by the clubs will give a timeline of dates, times, places and brief titles of ativities that the members and public can attend.
 
 An application for membership page will prompt for the relevant information, such as name, contact number and email, maybe reason to join.
 
+Images will be organised into directories:
+- exhibition images for each year
+- images associated with publicised activities will be contained in separate directory.
 
 ### Surface
 
@@ -60,9 +65,11 @@ Public link to wireframes used as mockups : [balsamiq](https://balsamiq.cloud/sd
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- Image carousel of members' art work found on the home page [index.html]
-- 
+
+- Image carousel used to show members' selected art work found on the home page [index.html]
+- Activities timeline detailing each date,time and location of a club organised activity found on activities page [activities.html]
+- either last summer's exhibition highlights, or forthcoming exhibition submissions found on exhibitions page [exhibition.html]
+- Bootstrap form component used for membership application to club [joinus.html]
 - 
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
