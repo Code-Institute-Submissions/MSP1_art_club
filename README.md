@@ -37,7 +37,7 @@ Any images associated with activities will be located in a spearate directory fo
 
 ### Skeleton
 
-The home page will have the show the main attractions, a selection of the member's work to view.
+The home page will show the main attractions, a selection of the member's work to view.
 A brief introduction imparting the nature of the get-togethers of the club, culminating in the club's summer exhibition of works to show the general public.
 
 An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved. This could be updated with images of submissions for the up coming exhibition to spur other to join/participate.
@@ -128,7 +128,7 @@ In particular, you should provide all details of the differences between the dep
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 The project is built to a master branch deployed to: https://mikedjgreen.github.io/MSP1_art_club/ .
-
+There is no separate git branch.
 
 ## Credits
 

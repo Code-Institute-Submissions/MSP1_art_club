@@ -77,6 +77,7 @@ header {
 .activities {
     /*background-color: #FF2C00; */
     background-color:rgba(209, 139, 93, 0.322);
+    padding-right: 0;
 }
 
 .activity-timeline {
