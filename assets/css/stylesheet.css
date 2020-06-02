@@ -89,14 +89,14 @@ header {
 .activity-timeline h4 {
     margin: 0;
     padding: 0;
-    margin-left: 3em;
+    margin-left: 0.5em;
     margin-bottom: 0.5em;
     margin-top: 0.5em;
 }
 .activity-timeline p {
     margin: 0;
     padding: 0;
-    margin-left: 4em;
+    margin-left: 1em;
 }
 .activity-timeline:before{
     content: attr(data-date);
