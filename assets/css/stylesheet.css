@@ -125,6 +125,13 @@ header {
 .exhibition {
     background-color:  rgba(160, 229, 185, 0.596);
 }
+
+.exhibition-image {
+    height: 200vh;
+    object-fit:cover;
+
+}
+
 /*--------------------------------------------Form */
 
 .joinusform {
