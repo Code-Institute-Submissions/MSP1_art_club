@@ -96,7 +96,7 @@ header {
 .activity-timeline p {
     margin: 0;
     padding: 0;
-    margin-left: 1em;
+    margin-left: 0.5em;
 }
 .activity-timeline:before{
     content: attr(data-date);
