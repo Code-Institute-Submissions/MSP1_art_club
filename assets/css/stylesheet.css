@@ -65,8 +65,13 @@ header {
 .navbar-brand {
         margin-right: 0;
 }
+/*-------------------------------------------- Index */
 
-
+.index-image {
+    height: 30%;
+    object-fit:cover;
+    border: 5px;
+}
 
 /*-------------------------------------------- Activities */
 .activities {
@@ -129,7 +134,6 @@ header {
 .exhibition-image {
     height: 200vh;
     object-fit:cover;
-
 }
 
 /*--------------------------------------------Form */

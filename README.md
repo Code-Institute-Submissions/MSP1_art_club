@@ -42,13 +42,15 @@ A brief introduction imparting the nature of the get-togethers of the club, culm
 
 An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved. This could be updated with images of submissions for the up coming exhibition to spur other to join/participate.
 
-A separate page of activities run by the clubs will give a timeline of dates, times, places and brief titles of ativities that the members and public can attend.
+A separate page of activities run by the clubs will give a timeline of dates, times, places and brief titles of activities that the members and public can attend.
 
 An application for membership page will prompt for the relevant information, such as name, contact number and email, maybe reason to join.
 
 Images will be organised into directories:
-- exhibition images for each year
-- images associated with publicised activities will be contained in separate directory.
+- the icon image for the club will remain in the assets/images subdirectory.
+- exhibition images for each year in their own subdirectory of assets/images.
+- images associated with publicised activities will be contained in separate subdirectory of assets/images.
+- main [index.html] page will display images from 'promo' subdirectory of assets/images.
 
 ### Surface
 
