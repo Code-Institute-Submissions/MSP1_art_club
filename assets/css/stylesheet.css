@@ -133,8 +133,8 @@ header {
 }
 
 .exhibition-image {
-    height: 200vh;
     object-fit:cover;
+    width: 300px;
 }
 
 /*--------------------------------------------Form */
