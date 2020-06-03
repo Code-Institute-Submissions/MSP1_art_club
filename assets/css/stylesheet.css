@@ -67,6 +67,10 @@ header {
 }
 /*-------------------------------------------- Index */
 
+carousel-inner{
+    width: 50%;
+}
+
 .index-image {
     height: 30%;
     object-fit:cover;
