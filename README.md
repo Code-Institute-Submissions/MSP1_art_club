@@ -15,7 +15,7 @@ User Stories:
 - As an interested art viewer, would like to see examples of artists work.
 
 - As an amateur artist or hobbyist, interested in joining fellow practisioners, would like to join as a member.
-- As a practising artist would like to see opporunities to exhibit my art or tutor fellow artists.
+- As a practising artist would like to see opportunities to exhibit my art or tutor fellow artists.
 
 - As a member, would like to seek opinions from fellow members of my art (critique), and be able to pass my critique.
 - As a member, would like to see a bulletin board for more general comments, additional information, and links to interesting articles.
@@ -72,16 +72,13 @@ In this section, you should go over the different parts of your project, and des
 - Activities timeline detailing each date,time and location of a club organised activity found on activities page [activities.html]
 - either last summer's exhibition highlights, or forthcoming exhibition submissions found on exhibitions page [exhibition.html]
 - Bootstrap form component used for membership application to club [joinus.html]
-- 
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
+
 - Membership form to be linked to a back-end database of members and their membership dues.
 - An administrators page that can easily access and query the back-end member list, access to the page being password protected.
 - An image repository that can be searched on keyword, title and creator name.
+- An ability to pass comments, 'critiques', of members work.
 
 ## Technologies Used
 
@@ -118,14 +115,20 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+Developed on GitPod using git and GitHub.
+Selected Repository : mikedjgreen/MSP1_art_club
+Generated from: https://github.com/Code-Institute-Org/gitpod-full-template
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+Deployment steps:
+- opened up GitHub
+- signed in
+- selected repository mikedjgreen/MSP1_art_club
+- navigated to repository
+- selected 'settings'
+- scrolled to GitHub pages area
+- selected 'Master Branch' from the source drop down menu
+- confirmed selected
+Now live on GitHub pages.
 
 The project is built to a master branch deployed to: https://mikedjgreen.github.io/MSP1_art_club/ .
 There is no separate git branch.
@@ -133,10 +136,10 @@ There is no separate git branch.
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text written by author.
 
 ### Media
-- The photos used in this site were obtained from the author as examples of  the images needed.
+- The photos used in this site were obtained from the author (in jpeg format) as examples of the images required.
 
 ### Acknowledgements
 
