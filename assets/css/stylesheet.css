@@ -66,6 +66,11 @@ header {
         margin-right: 0;
         font-size: small;
 }
+
+.navbar-toggler {
+    padding: .25rem;
+}
+
 /*-------------------------------------------- Index */
 
 .index-image {
