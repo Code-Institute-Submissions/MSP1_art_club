@@ -17,8 +17,6 @@ User Stories:
 - As an amateur artist or hobbyist, interested in joining fellow practisioners, would like to join as a member.
 - As a practising artist would like to see opportunities to exhibit my art or tutor fellow artists.
 
-- As a member, would like to seek opinions from fellow members of my art (critique), and be able to pass my critique.
-- As a member, would like to see a bulletin board for more general comments, additional information, and links to interesting articles.
 
 ### Strategy
 
