@@ -17,7 +17,6 @@ User Stories:
 - As an amateur artist or hobbyist, interested in joining fellow practisioners, would like to join as a member.
 - As a practising artist would like to see opportunities to exhibit my art or tutor fellow artists.
 
-
 ### Strategy
 
 To provide an accessible site for the club's work and introduction to it's members, so that further members will be attracted.
@@ -31,7 +30,7 @@ By it's nature the site will be mainly image based, with future back-end server 
 
 Image information, member information linked to image of works.
 Images for exhibitions will be located in an image directory specified by the exhibition's year.
-Any images associated with activities will be located in a spearate directory for activities
+Any images associated with activities will be located in a separate directory for activities
 
 ### Skeleton
 
@@ -40,7 +39,7 @@ A brief introduction imparting the nature of the get-togethers of the club, culm
 
 An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved. This could be updated with images of submissions for the up coming exhibition to spur other to join/participate.
 
-A separate page of activities run by the clubs will give a timeline of dates, times, places and brief titles of activities that the members and public can attend.
+A separate page of activities run by the club will give a timeline of dates, times, places and brief titles of activities that the members and public can attend.
 
 An application for membership page will prompt for the relevant information, such as name, contact number and email, maybe reason to join.
 
@@ -95,18 +94,20 @@ For each, provide its name, a link to its official site and a short sentence of 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. 
-Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant.
  A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
+1. Open the site and read introduction informing viewer of purpose of web site.
+
+2. Further links followed to get dates and times of art club activities throughout the year, or season.
+
+3. Follow link to view this season's summer exhibition organised by the club, dates, times and venue. Displayed images of submitted works for exhibtion.
+
+4. Join us form:
+    1. Go to the "Join Us" page
+    2. Try to submit the empty form and verify that an error: '! Please fill out this field', about the required fields appears
+    3. Try to submit the form with an invalid email address and verify that a relevant error message appears, '! Please include an '@' in the email address.'
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
