@@ -79,11 +79,16 @@ header {
     border: 5px;
 }
 
+.introduction{
+    padding-left: 5px;
+}
+
 /*-------------------------------------------- Activities */
 .activities {
     /*background-color: #FF2C00; */
     background-color:rgba(209, 139, 93, 0.322);
     padding-right: 0;
+    padding-left: 5px;
 }
 
 .activity-timeline {
@@ -136,6 +141,7 @@ header {
 /*--------------------------------------------Exhibition  */
 .exhibition {
     background-color:  rgba(160, 229, 185, 0.596);
+    padding-left: 5px;
 }
 
 .exhibition-image {
@@ -144,6 +150,9 @@ header {
 }
 
 /*--------------------------------------------Form */
+.joinus {
+    padding-left:5px;
+}
 
 .joinusform {
     background-color: #84E900;
