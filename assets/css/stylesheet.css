@@ -152,7 +152,7 @@ header {
 /*--------------------------------------------Form */
 .joinus {
     padding-left:5px;
-    background-image: "assets/images/promo/Antonia_20200508_56.jpg";
+    background-image: url("assets/images/promo/Antonia_20200508_56.jpg)";
 }
 
 .joinusform {
