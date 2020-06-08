@@ -83,11 +83,12 @@ header {
 }
 
 .introduction{
+    font-weight:bold;
+    color: #fafafa;
     height:100vh;
     background-size: cover;
     background-color:transparent;
-    font-weight:bold;
-    color: #fafafa;
+    background-position: center;
     background: url("../images/promo/Antonia_VE_Day.jpg") fixed no-repeat transparent;
 }
 
