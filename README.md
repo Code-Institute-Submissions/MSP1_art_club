@@ -94,11 +94,8 @@ For each, provide its name, a link to its official site and a short sentence of 
 
 ## Testing
 
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant.
- A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Open the site and read introduction informing viewer of purpose of web site.
+1. Open the site and read introduction informing viewer of purpose of web site. 
+Easily navigate from initial page to pages on club activities, summer exhibition details and membership application.
 
 2. Further links followed to get dates and times of art club activities throughout the year, or season.
 
