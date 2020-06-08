@@ -88,7 +88,7 @@ header {
     height:100vh;
     background-size: cover;
     background-color:transparent;
-    background: url("../images/promo/Antonia_VE_Day.jpg") fixed no-repeat transparent;
+    background: url("../images/promo/Antonia_VE_Day.jpg") fixed transparent;
 }
 
 /*-------------------------------------------- Activities */
