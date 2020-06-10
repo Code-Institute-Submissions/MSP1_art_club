@@ -24,17 +24,24 @@ To provide an accessible site for the club's work and introduction to it's membe
 
 ### Scope
 
-By it's nature the site will be mainly image based, with future back-end server development of member's lists and lists of works for reference and use for exhibitions.
+By the nature of visual arts the site will be mainly image based, with displays of member's works and images of activities.
+There will be a form for membership application available.
 
 ### Structure
 
 Image information, member information linked to image of works.
 Images for exhibitions will be located in an image directory specified by the exhibition's year.
-Any images associated with activities will be located in a separate directory for activities
+Any images associated with activities will be located in a separate directory for activities.
+Membership application will need details of  forename,surname,contact number, email, and whether the applicant wishes to exhibit.
 
 ### Skeleton
 
 The home page will show the main attractions, a selection of the member's work to view.
+
+There will be navigation to other pages on the site from the header. 
+Depending upon responsiveness, the navigation will be via a 'hamburger' menu for smaller viewports, or an inline row of labeled buttons.
+This navigation will be mirrored for each page of the site.
+
 A brief introduction imparting the nature of the get-togethers of the club, culminating in the club's summer exhibition of works to show the general public.
 
 An exhibition page will show the previous year's exhibition highlights, whether the works themselves or the personalities involved. This could be updated with images of submissions for the up coming exhibition to spur other to join/participate.
@@ -56,14 +63,12 @@ A light blue, identified as: #d9e6f3.
 
 The font will be Roboto with a back-up of Arial.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 Public link to wireframes used as mockups : [balsamiq](https://balsamiq.cloud/sdh3q7g/pswpdsk)
 Alternatively a PDF document of the wireframes is included (
 https://github.com/mikedjgreen/MSP1_art_club/blob/63dd1f806214f374906c85206393260ab001286e/assets/docs/Wireframe%20Art%20Club.pdf ).
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
 
@@ -107,8 +112,6 @@ Easily navigate from initial page to pages on club activities, summer exhibition
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears, '! Please include an '@' in the email address.'
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
 Testing different screen sizes using Chrome's developer Inspect emulator for:
 * Nokia Lumia 520 :  320px width  (default)
 * Nexus 7: 600px  (sm)
@@ -116,10 +119,6 @@ Testing different screen sizes using Chrome's developer Inspect emulator for:
 * Kindle Fire: 800px (md)
 * iPad Pro: 1024px  (lg)
 * Laptop with MDPI screen: 1280px  (xl)
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
