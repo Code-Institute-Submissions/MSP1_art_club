@@ -120,6 +120,9 @@ Testing different screen sizes using Chrome's developer Inspect emulator for:
 * iPad Pro: 1024px  (lg)
 * Laptop with MDPI screen: 1280px  (xl)
 
+Had a separate Kindle Fire to see responsiveness on all pages of changes from landscape to portrait views.
+Landscape had button link navigation whilst portrait had 'hamburger' menu drop downs.
+
 ## Deployment
 
 Developed on GitPod using git and GitHub.
