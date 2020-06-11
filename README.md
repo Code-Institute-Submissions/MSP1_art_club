@@ -7,8 +7,6 @@ The site will eventually aid the organisation of an annual exhibition for member
 
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 User Stories:
 - As a curious browser, possibly finding site from Google Search, I want to find out what this site is for.
 - As a viewer of the site would like to see planned activities and exhibits run by the art club.
