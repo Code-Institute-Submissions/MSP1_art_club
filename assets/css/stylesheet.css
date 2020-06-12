@@ -169,6 +169,10 @@ header {
 
 .carousel-inner {
     align-content: center;
+    text-align: center;
+}
+.carousel-item{
+    margin-right: 0;
 }
 
 .exhibition-image {
@@ -197,4 +201,5 @@ footer {
     min-height: 120px;
     margin: 0;
     padding-left: 10rem;
+    text-align: center;
 }

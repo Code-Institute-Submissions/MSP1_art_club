@@ -121,6 +121,15 @@ Testing different screen sizes using Chrome's developer Inspect emulator for:
 Had a separate Kindle Fire to see responsiveness on all pages of changes from landscape to portrait views.
 Landscape had button link navigation whilst portrait had 'hamburger' menu drop downs.
 
+CSS Validated:
+<p>
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=https://mikedjgreen.github.io/MSP1_art_club/assets/css/stylesheet.css">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
+
 ## Deployment
 
 Developed on GitPod using git and GitHub.
