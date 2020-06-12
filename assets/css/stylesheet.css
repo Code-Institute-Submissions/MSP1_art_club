@@ -162,7 +162,6 @@ header {
 .exhibition-image {
     object-fit:cocontain;
     height:20rem;
-    width: 300px;
 }
 
 /*--------------------------------------------Form */
