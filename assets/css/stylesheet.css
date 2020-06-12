@@ -88,7 +88,7 @@ header {
     padding-left: 2rem;
     font-weight:bold;
     color: #fafafa;
-    height:25vh;
+    height:275vh;
     background-size: cover;
     background-color:transparent;
     background: url("../images/promo/antonia_ve_day.jpg") fixed transparent;
@@ -160,11 +160,10 @@ header {
 
 /*--------------------------------------------Exhibition  */
 .exhibition {
-    background-color:  #9FE4B9;
     padding-left: 2rem;
 }
 
-.exhibitionSlides {
+#exhibitionSection {
     background-color: #9FE4B9; 
 }
 
