@@ -165,13 +165,16 @@ header {
 }
 
 .exhibitionSlides {
-    background-color: #9FE4B9;
+    background-color: #9FE4B9; 
+}
+
+.carousel-inner {
+    align-content: center;
 }
 
 .exhibition-image {
     object-fit:contain;
     height:20rem;
-    align-items: center;
 }
 
 /*--------------------------------------------Form */
