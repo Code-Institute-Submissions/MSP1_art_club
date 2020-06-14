@@ -21,7 +21,7 @@ header {
 }
 
 .logo {
-    background: url("../../images/artclub.jpg"); /*--Peer Review 404 --*/
+    background: url("../images/artclub.jpg"); /*--Peer Review 404 --*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
