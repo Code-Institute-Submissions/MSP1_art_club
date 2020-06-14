@@ -180,7 +180,7 @@ header {
 .exhibition-image {
     object-fit:contain;
     height:20rem;
-    padding-left: 33%;
+    /* padding-left: 33%; */
 }
 
 /*--------------------------------------------Form */
