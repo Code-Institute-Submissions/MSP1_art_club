@@ -43,18 +43,23 @@ header {
 /*-------------------------------------------- navigation */
 .ui-menu-color-home {
     /* background-color: #D9005B; */
-    background-color: #CC9999;
+    background-color: #A0CCC0;
 }
 .ui-menu-color-activity{
-     background-color:rgba(209, 139, 93, 0.322);
+     background-color:#C0D890;
 }
 .ui-menu-color-exhibition{
     /* background-color: #00B945; */
-    background-color:  #9FE4B9;
+    background-color:  #99CC00;
 }
 .ui-menu-color-joinus{
     /* background-color: #84E900; */
     background-color: #99CCCC;
+}
+
+/* overiding bootstrap's button for color */
+.btn-success {
+    color: #A0CCC0;
 }
 
 #nav {
@@ -95,12 +100,12 @@ header {
 }
 
 .mainslides{
-    background-color: #9FE4B9;
+    background-color: #339900;
 }
 /*-------------------------------------------- Activities */
 .activities {
     /*background-color: #FF2C00; */
-    background-color:rgba(209, 139, 93, 0.322);
+    background-color: #C0D890;
     padding-right: 0;
     padding-left: 2rem;
 }
@@ -164,7 +169,7 @@ header {
 }
 
 #exhibitionSection {
-    background-color: #9FE4B9; 
+    background-color: #99CC00; 
 }
 
 .carousel-inner {
@@ -192,7 +197,7 @@ header {
 }
 
 .joinusform {
-    background-color: #84E900;
+    background-color: #80CCB3;
     padding: 5px;
 }
 

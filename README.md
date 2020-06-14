@@ -59,6 +59,12 @@ Images will be organised into directories:
 The header and footer background colours for all pages will be a uniform colour that helps identify the site.
 A light blue, identified as: #d9e6f3.
 
+Upon feedback the menu colours were restricted to shades of green:
+- Home : #A0CCC0
+- Activity : #C0D890
+- Exhibition : #99CC00
+- Join Us : #99CCCC
+
 The font will be Roboto with a back-up of Arial.
 
 Public link to wireframes used as mockups : [balsamiq](https://balsamiq.cloud/sdh3q7g/pswpdsk)
