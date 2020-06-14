@@ -21,7 +21,7 @@ header {
 }
 
 .logo {
-    background: url("assets/images/artclub.jpg");
+    background: url("../../images/artclub.jpg"); /*--Peer Review 404 --*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -90,8 +90,8 @@ header {
     color: #fafafa;
     height:200vh;
     background-size: cover;
-    background-color:transparent;
-    background: url("../images/promo/antonia_ve_day.jpg") fixed transparent;
+    background-color: transparent;
+    background: url("../images/promo/antonia_ve_day.jpg") fixed transparent no-repeat;
 }
 
 .mainslides{
@@ -174,12 +174,13 @@ header {
 .carousel-item{
     margin-right: 0;
     align-self: start;
+    
 }
 
 .exhibition-image {
     object-fit:contain;
     height:20rem;
-    padding-left: 40%;
+    padding-left: 33%;
 }
 
 /*--------------------------------------------Form */

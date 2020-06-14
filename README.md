@@ -138,6 +138,14 @@ CSS Validated:
     </a>
 </p>
 
+### Peer reviews
+* reduce menu colours. Using coolors colour selection app: https://coolors.co/ffffff-674f83-d19c1d-1496bb-993366
+* background image repeating on index page, conflicting with text.
+* add gutter on desktop viewport, never wider than 1140 pixel  (xl).
+* vertical spacing is tight : https://getbootstrap.com/docs/4.0/utilities/spacing/
+* 404 error on css path to art club log image
+
+
 ## Deployment
 
 Developed on GitPod using git and GitHub.
