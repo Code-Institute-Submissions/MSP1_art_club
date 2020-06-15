@@ -25,6 +25,13 @@ header {
     font-weight: 800;
     font-size: 2em;
     padding:0;
+    text-align: center;
+}
+.header-text-sm{ 
+    font-weight: 800;
+    font-size: 1.5em;
+    padding:0;
+    text-align: center;
 }
 
 .logo {
