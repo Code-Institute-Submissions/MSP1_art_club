@@ -166,6 +166,10 @@ header {
     height:10rem;
 }
 
+.activities .img-fluid {
+    padding: 5px 0;
+}
+
 
 .activity-image {
     width: 150px;
