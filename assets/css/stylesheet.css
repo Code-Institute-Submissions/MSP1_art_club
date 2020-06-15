@@ -2,6 +2,13 @@ body{
     font-family: Roboto, Arial, sans-serif;
 }
 
+/*------------------------------------ Peer Review: Introducing guttering on wide screens (xl)  --------*/
+body, nav, footer {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
 
 /*--------------------------------------------Heading   */
 
@@ -197,7 +204,6 @@ header {
 }
 
 .joinusform {
-    background-color: #80CCB3;
     padding: 5px;
 }
 
