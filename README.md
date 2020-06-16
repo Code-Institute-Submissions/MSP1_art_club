@@ -116,13 +116,15 @@ Easily navigate from initial page to pages on club activities, summer exhibition
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears, '! Please include an '@' in the email address.'
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-Testing different screen sizes using Chrome's developer Inspect emulator for:
-* Nokia Lumia 520 :  320px width  (default)
-* Nexus 7: 600px  (sm)
-* iPad : 768px    (sm/md)
-* Kindle Fire: 800px (md)
-* iPad Pro: 1024px  (lg)
-* Laptop with MDPI screen: 1280px  (xl)
+Testing different screen sizes:
+| Chrome's Inspect emulator           | width  | breakpoint |
+|-------------------------------------|--------|------------|
+| Nokia Lumia                         | 320px  | (default)  |
+| Nexus 7                             | 600px  | sm         |
+| iPad :                              | 768px  | sm/md      |
+| Kindle Fire:                        | 800px  | md         |
+| iPad Pro:                           | 1024px | lg         |
+| Laptop with MDPI screen             | 1280px | xl         |
 
 Had a separate Kindle Fire to see responsiveness on all pages of changes from landscape to portrait views.
 Landscape had button link navigation whilst portrait had 'hamburger' menu drop downs.
