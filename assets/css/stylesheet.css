@@ -52,6 +52,7 @@ header {
 .jumbotron {
     padding:1rem;
     margin: 0;
+    background-color: #D9E6F3;
 }
 
 /*-------------------------------------------- navigation */
