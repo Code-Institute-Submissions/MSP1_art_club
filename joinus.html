@@ -14,10 +14,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
 		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
 
-	<!--
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-		type="text/css" />
-    -->
+
 	<script src="https://kit.fontawesome.com/169cf7da54.js" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css"
 		type="text/css" />
@@ -35,15 +32,15 @@
                 </a>
 			</div>
 			<div class="col-9  header-text d-none d-md-block"> Prickwillow Art Club </div>
-        
-        <!-- Hamburger menu navbar for small width screens -->
+
+			<!-- Hamburger menu navbar for small width screens -->
 			<div class="col-12 d-md-none px-0">
 				<nav class="navbar navbar-expand-sx navbar-light bg-light">
 					<a class="navbar-brand" href="index.html">
-                    <!-- Prickwillow Art Club -->
-                    <img src="assets/images/artclub.jpg" class="img-rounded" alt="Prickwillow Art Club" width="50" height="50"/>
-                    <span class="header-text-sm"> Prickwillow Art Club </span>
-                    </a>
+						<!-- Prickwillow Art Club -->
+						<img src="assets/images/artclub.jpg" class="img-rounded" alt="Prickwillow Art Club" width="50" height="50"/>
+						<span class="header-text-sm"> Prickwillow Art Club </span>
+					</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -59,13 +56,14 @@
 								<a class="nav-link" href="exhibition.html">Exhibition </a>
 							</li>
 							<li class="nav-item active">
-								<a class="nav-link" href="joinus.html">Join Us <span class="sr-only">(current)</span></a>
+								<a class="nav-link" href="joinus.html">Join Us
+									<span class="sr-only">(current)</span></a>
 							</li>
 						</ul>
 					</div>
 				</nav>
 			</div>
-        <!-- Larger screen navigation -->
+			<!-- Larger screen navigation -->
 			<div class="col-12 offset-1 d-none d-md-block">
 				<ul id="nav" class="list-inline menucontainer">
 					<li class="col-2 ui-menu-color-home list-inline-item menuitem hvr-sweep-to-bottom">
@@ -101,17 +99,17 @@
 						events, or organisational issues with exhibits. We may later ask for your postal address only if
 						material needs to be returned.</p>
 					<form class="joinusform">
-                        <fieldset>
-                            <legend>Membership Details</legend>
-						<div class="form-row">
-							<div class="col-md-2">
-								<label for="formForenameInput">Forename: </label>
+						<fieldset>
+							<legend>Membership Details</legend>
+							<div class="form-row">
+								<div class="col-md-2">
+									<label for="formForenameInput">Forename: </label>
+								</div>
+								<div class="col-md-3">
+									<input type="text" class="form-control" id="formForenameInput" placeholder="Forename" maxlength="50" aria-describedby="forenameHelp" required>
+									<small id="forenameHelp" class="form-text text-muted">Required field.</small>
+								</div>
 							</div>
-							<div class="col-md-3">
-								<input type="text" class="form-control" id="formForenameInput" placeholder="Forename" maxlength="50" aria-describedby="forenameHelp" required>
-                                <small id="forenameHelp" class="form-text text-muted">Required field.</small>
-                            </div>
-						</div>
 
 							<div class="form-row">
 								<div class="col-md-2">
@@ -119,43 +117,43 @@
 								</div>
 								<div class="col-md-3">
 									<input type="text" class="form-control" id="formSurnameInput" placeholder="Surname" maxlength="50" aria-describedby="surnameHelp" required>
-                                    <small id="surnameHelp" class="form-text text-muted">Required field.</small>
-                                </div>
+									<small id="surnameHelp" class="form-text text-muted">Required field.</small>
+								</div>
 							</div>
 
 							<div class="form-row">
-									<div class="col-md-2">
-										<label for="formEmail">Email address:</label>
-									</div>
-									<div class="col-md-9">
-										<input type="email" class="form-control" id="formEmail" aria-describedby="emailHelp" placeholder="email@address.domain"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
-										<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-									</div>
+								<div class="col-md-2">
+									<label for="formEmail">Email address:</label>
+								</div>
+								<div class="col-md-9">
+									<input type="email" class="form-control" id="formEmail" aria-describedby="emailHelp" placeholder="email@address.domain"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+									<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+								</div>
 							</div>
 
 							<div class="form-row">
-									<div class="col-md-2">
-										<label for="contactNumber">Phone Number:</label>
-									</div>
-									<div class="col-md-8">
-										<input type="number" class="form-control" id="contactNumber" aria-describedby="contactHelp" placeholder="Contact Number" min="0" required>
-										<small id="contactHelp" class="form-text text-muted">Your mobile number without spaces, please.</small>
-									</div>
+								<div class="col-md-2">
+									<label for="contactNumber">Phone Number:</label>
+								</div>
+								<div class="col-md-8">
+									<input type="number" class="form-control" id="contactNumber" aria-describedby="contactHelp" placeholder="Contact Number" min="0" required>
+									<small id="contactHelp" class="form-text text-muted">Your mobile number without spaces, please.</small>
+								</div>
 							</div>
 
-                            <div class="form-group">
-							    <div class="form-check form-check-inline col-md-3 required">
+							<div class="form-group">
+								<div class="form-check form-check-inline col-md-3 required">
 									<input class="form-check-input" type="radio" name="inlineRadioOptions" id="newMemberRadio" value="option1" required>
 									<label class="form-check-label" for="newMemberRadio">New Member</label>
-							    </div>
+								</div>
 
 								<div class="form-check form-check-inline col-md-3">
 									<input class="form-check-input" type="radio" name="inlineRadioOptions" id="renewalRadio" value="option2" required>
 									<label class="form-check-label" for="renewalRadio">Renewal</label>
 								</div>
-                            </div>
+							</div>
 
-                            <div class="form-group">
+							<div class="form-group">
 								<div class="form-check form-check-inline col-md-3">
 									<input type="checkbox" class="form-check-input" id="familyCheck">
 									<label class="form-check-label" for="familyCheck">Family Membership</label>
@@ -164,12 +162,12 @@
 									<input type="checkbox" class="form-check-input" id="exhibitCheck">
 									<label class="form-check-label" for="exhibitCheck">Do you want to Exhibit?</label>
 								</div>
-                            </div>
-                        </fieldset>
-								<div class="form-group col-md-3">
-									<hr>
-									<button type="submit" class="btn btn-primary">Submit</button>
-								</div>
+							</div>
+						</fieldset>
+						<div class="form-group col-md-3">
+							<hr>
+							<button type="submit" class="btn btn-primary">Submit</button>
+						</div>
 					</form>
 				</div>
 			</div>
@@ -189,23 +187,6 @@
 							<span class="sr-only">Facebook</span>
 						</a>
 					</li>
-
-					<!-- Dont have Pinterest account as yet
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-pinterest" aria-hidden="true"></i>
-                            <span class="sr-only">Pinterest</span>
-                        </a>
-                    </li>
-                    -->
-					<!-- Don't have Instagram account as yet
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fa fa-instagram" aria-hidden="true"></i>
-                            <span class="sr-only">Instagram</span>
-                        </a>
-                    </li>
-                    -->
 					<li class="list-inline-item px-3">
 						<a target="_blank" href="https://www.youtube.com/watch?v=-2X6WHbONSc">
 							<i class="fa fa-youtube fa-lg" aria-hidden="true"></i>
