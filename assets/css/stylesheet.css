@@ -71,14 +71,6 @@ header {
     background-color: #99CCCC;
 }
 
-/* overiding bootstrap's button for color */
-.btn-success {
-    color: #A0CCC0;
-}
-.btn-primary {
-    color: #23735d;  /* to contrast with form's background colour */
-}
-
 #nav {
     margin: 0;
 }
