@@ -30,7 +30,7 @@ There will be a form for membership application available.
 Image information, member information linked to image of works.
 Images for exhibitions will be located in an image directory specified by the exhibition's year.
 Any images associated with activities will be located in a separate directory for activities.
-Membership application will need details of  forename,surname,contact number, email, and whether the applicant wishes to exhibit.
+Membership application will need details of forename,surname,contact number, email, and whether the applicant wishes to exhibit.
 
 ### Skeleton
 
@@ -103,31 +103,9 @@ For each, provide its name, a link to its official site and a short sentence of 
 
 ## Testing
 
-1. Open the site and read introduction informing viewer of purpose of web site. 
-Easily navigate from initial page to pages on club activities, summer exhibition details and membership application.
+For the sake of brevity, see separate link for testing procedures :
+[Testing](assets/docs/TESTING.md)
 
-2. Further links followed to get dates and times of art club activities throughout the year, or season.
-
-3. Follow link to view this season's summer exhibition organised by the club, dates, times and venue. Displayed images of submitted works for exhibtion.
-
-4. Join us form:
-    1. Go to the "Join Us" page
-    2. Try to submit the empty form and verify that an error: '! Please fill out this field', about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears, '! Please include an '@' in the email address.'
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-Testing different screen sizes:
-| Chrome's Inspect emulator           | width  | breakpoint |
-|-------------------------------------|--------|------------|
-| Nokia Lumia                         | 320px  | (default)  |
-| Nexus 7                             | 600px  | sm         |
-| iPad :                              | 768px  | sm/md      |
-| Kindle Fire:                        | 800px  | md         |
-| iPad Pro:                           | 1024px | lg         |
-| Laptop with MDPI screen             | 1280px | xl         |
-
-Had a separate Kindle Fire to see responsiveness on all pages of changes from landscape to portrait views.
-Landscape had button link navigation whilst portrait had 'hamburger' menu drop downs.
 
 HTML Validated:
 * https://validator.w3.org/nu/?doc=https://mikedjgreen.github.io/MSP1_art_club/index.html
@@ -149,9 +127,11 @@ CSS Validated:
 ### Peer reviews
 * reduce menu colours. Using coolors colour selection app: https://coolors.co/ffffff-674f83-d19c1d-1496bb-993366
 * background image repeating on index page, conflicting with text.
-* add gutter on desktop viewport, never wider than 1140 pixel  (xl).
+* add gutter on desktop viewport, never wider than 1200 pixel (xl).
 * vertical spacing is tight : https://getbootstrap.com/docs/4.0/utilities/spacing/
-* 404 error on css path to art club log image
+* 404 error on css path to art club log image - amended
+* Call to action at the top of the main page...'Join Us!' button.
+* Footer social media badges too small, so enlarged (fa-lg).
 
 
 ## Deployment
