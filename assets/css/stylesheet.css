@@ -57,19 +57,18 @@ header {
 
 /*-------------------------------------------- navigation */
 .ui-menu-color-home {
-    /* background-color: #D9005B; */
-    background-color: #A0CCC0;
+    background-color: #A0CCC0;  /* Opal */
 }
 .ui-menu-color-activity{
-     background-color:#C0D890;
+    /* background-color:#C0D890; */
+    background-color: #7ECC84;  /* Mantis */
 }
 .ui-menu-color-exhibition{
-    /* background-color: #00B945; */
-    background-color:  #99CC00;
+    /* background-color:  #99CC00; */
+    background-color: #AAE3C4; /* Magic Mint */
 }
 .ui-menu-color-joinus{
-    /* background-color: #84E900; */
-    background-color: #99CCCC;
+    background-color: #8DF0BF;  /* Aquamarine */
 }
 
 #nav {
@@ -115,7 +114,8 @@ header {
 /*-------------------------------------------- Activities */
 .activities {
     /*background-color: #FF2C00; */
-    background-color: #C0D890;
+    background-color: #7ECC84;  /* Mantis */
+    /* background-color: #C0D890; */
     padding-right: 0;
     padding-left: 2rem;
 }
@@ -187,7 +187,8 @@ header {
 }
 
 #exhibitionSection {
-    background-color: #99CC00; 
+    /* background-color: #99CC00; */
+    background-color: #AAE3C4; /* Magic Mint */
 }
 
 .carousel-inner {
@@ -211,7 +212,8 @@ header {
     padding-left:2rem;
     padding-right:1rem;
     padding-bottom: 1rem;
-    background-color: #99CCCC;
+    /* background-color: #99CCCC; */
+    background-color: #8DF0BF;  /* Aquamarine */
 }
 
 .joinusform {

@@ -54,22 +54,29 @@ Images will be organised into directories:
 - images associated with publicised activities will be contained in separate subdirectory of assets/images.
 - main [index.html] page will display images from 'promo' subdirectory of assets/images.
 
+#### Wireframes 
+
+Public link to wireframes used as mockups : [balsamiq](https://balsamiq.cloud/sdh3q7g/pswpdsk)
+
+Alternatively a PDF document of the wireframes is included (
+https://github.com/mikedjgreen/MSP1_art_club/blob/63dd1f806214f374906c85206393260ab001286e/assets/docs/Wireframe%20Art%20Club.pdf ).
+
+
 ### Surface
 
 The header and footer background colours for all pages will be a uniform colour that helps identify the site.
 A light blue, identified as: #d9e6f3.
 
 Upon feedback the menu colours were restricted to shades of green:
-- Home : #A0CCC0
-- Activity : #C0D890
-- Exhibition : #99CC00
-- Join Us : #99CCCC
+- Home : #A0CCC0  Opal
+- Activity :  #7ECC84   Mantis
+- Exhibition : #AAE3C4 Magic Mint
+- Join Us : #8DF0BF   Aquamarine
+
+![Colour Palette](assets/images/project_screenshots/MSP1_Art_Club_Analogous_Colours.png)
 
 The font will be Roboto with a back-up of Arial.
 
-Public link to wireframes used as mockups : [balsamiq](https://balsamiq.cloud/sdh3q7g/pswpdsk)
-Alternatively a PDF document of the wireframes is included (
-https://github.com/mikedjgreen/MSP1_art_club/blob/63dd1f806214f374906c85206393260ab001286e/assets/docs/Wireframe%20Art%20Club.pdf ).
 
 ## Features
 
