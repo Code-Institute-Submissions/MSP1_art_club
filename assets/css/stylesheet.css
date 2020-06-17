@@ -66,11 +66,9 @@ header {
     background-color: #A0CCC0;  /* Opal */
 }
 .ui-menu-color-activity{
-    /* background-color:#C0D890; */
     background-color: #7ECC84;  /* Mantis */
 }
 .ui-menu-color-exhibition{
-    /* background-color:  #99CC00; */
     background-color: #AAE3C4; /* Magic Mint */
 }
 .ui-menu-color-joinus{
@@ -115,15 +113,9 @@ header {
     background: url("../images/promo/antonia_ve_day.jpg") fixed transparent no-repeat;
 }
 
-
-.mainslides{
-    background-color: #339900;
-}
 /*-------------------------------------------- Activities */
 .activities {
-    /*background-color: #FF2C00; */
     background-color: #7ECC84;  /* Mantis */
-    /* background-color: #C0D890; */
     padding-right: 0;
     padding-left: 2rem;
 }
@@ -195,7 +187,6 @@ header {
 }
 
 #exhibitionSection {
-    /* background-color: #99CC00; */
     background-color: #AAE3C4; /* Magic Mint */
 }
 
@@ -212,7 +203,6 @@ header {
 .exhibition-image {
     object-fit:contain;
     height:20rem;
-    /* padding-left: 33%; */
 }
 
 /*--------------------------------------------Form */
@@ -220,7 +210,6 @@ header {
     padding-left:2rem;
     padding-right:1rem;
     padding-bottom: 1rem;
-    /* background-color: #99CCCC; */
     background-color: #8DF0BF;  /* Aquamarine */
 }
 
