@@ -130,6 +130,8 @@ For each, provide its name, a link to its official site and a short sentence of 
 - [Font Awesome](https://fontawesome.com/) to provide additional icons
 - [Hover](http://ianlunn.github.io/Hover/) to provide hover effects to enhance user experience
 
+- [TOC for markdown](https://ecotrust-canada.github.io/markdown-toc/) to generate table of contents for README
+- [Colour Palette](https://coolors.co/a0ccc0-7ecc84-aae3c4) to select colour palette for menus and backgrounds.
 
 
 ## Testing
