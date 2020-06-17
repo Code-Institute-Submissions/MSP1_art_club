@@ -55,6 +55,12 @@ header {
     background-color: #D9E6F3;
 }
 
+/* overriding font-size on carousel captions on both main slides and exhibition*/
+.carousel-caption p {
+    font-size: 0.5rem;
+    line-height: 1;
+}
+
 /*-------------------------------------------- navigation */
 .ui-menu-color-home {
     background-color: #A0CCC0;  /* Opal */
@@ -90,6 +96,7 @@ header {
     padding: .25rem;
 }
 
+
 /*-------------------------------------------- Index */
 
 .index-image {
@@ -107,6 +114,7 @@ header {
     background-color: transparent;
     background: url("../images/promo/antonia_ve_day.jpg") fixed transparent no-repeat;
 }
+
 
 .mainslides{
     background-color: #339900;
