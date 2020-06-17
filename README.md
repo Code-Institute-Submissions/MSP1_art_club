@@ -1,3 +1,27 @@
+- [Art Club](#art-club)
+  * [UX](#ux)
+    + [Strategy](#strategy)
+    + [Scope](#scope)
+    + [Structure](#structure)
+    + [Skeleton](#skeleton)
+      - [Wireframes](#wireframes)
+    + [Surface](#surface)
+      - [Analogous Colour Palette](#analogous-colour-palette)
+  * [Features](#features)
+    + [Existing Features](#existing-features)
+    + [Features Left to Implement](#features-left-to-implement)
+  * [Technologies Used](#technologies-used)
+  * [Testing](#testing)
+    + [Peer reviews](#peer-reviews)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+    + [Content](#content)
+    + [Media](#media)
+    + [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Art Club
 A web site designed for the local art community.
 A place to connect, share news and views, meet-ups.
@@ -73,6 +97,7 @@ Upon feedback the menu colours were restricted to shades of green:
 - Exhibition : #AAE3C4 Magic Mint
 - Join Us : #8DF0BF   Aquamarine
 
+#### Analogous Colour Palette
 ![Colour Palette](assets/images/project_screenshots/MSP1_Art_Club_Analogous_Colours.png)
 
 The font will be Roboto with a back-up of Arial.
@@ -83,9 +108,9 @@ The font will be Roboto with a back-up of Arial.
  
 ### Existing Features
 
-- Image carousel used to show members' selected art work found on the home page [index.html]
+- Bootstrap Image carousel used to show members' selected art work found on the home page [index.html]
 - Activities timeline detailing each date,time and location of a club organised activity found on activities page [activities.html]
-- either last summer's exhibition highlights, or forthcoming exhibition submissions found on exhibitions page [exhibition.html]
+- Bootstrap Image Carousel showing either last summer's exhibition highlights, or forthcoming exhibition submissions [exhibition.html]
 - Bootstrap form component used for membership application to club [joinus.html]
 
 ### Features Left to Implement
@@ -104,8 +129,7 @@ For each, provide its name, a link to its official site and a short sentence of 
 - [Bootstrap](https://getbootstrap.com/) to provide a mobile-first framework for the site.
 - [Font Awesome](https://fontawesome.com/) to provide additional icons
 - [Hover](http://ianlunn.github.io/Hover/) to provide hover effects to enhance user experience
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+
 
 
 ## Testing
