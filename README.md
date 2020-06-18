@@ -184,6 +184,14 @@ Deployment steps:
 - confirmed selected
 Now live on GitHub pages.
 
+To run this code on your local machine, you would go to my respository at https://github.com/mikedjgreen/MSP1_art_club and on the home page on the right hand side just above all the files, you will see a green button that says, "Clone or download", this button will give you options to clone with HTTPS, open in desktop or download as a zip file.
+To continue with cloning, you would:
+- Open Git Bash
+- Change the current working directory to the location where you want the cloned directory to be made.
+- Type git clone, and then paste this URL: https://github.com/mikedjgreen/MSP1_art_club.git Press Enter. Your local clone will be created.
+
+For more information about the above process; https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
 The project is built to a master branch deployed to: https://mikedjgreen.github.io/MSP1_art_club/ .
 There is no separate git branch.
 
@@ -191,10 +199,13 @@ There is no separate git branch.
 
 ### Content
 - The text written by author.
+- The carousels taken directly from bootstraps components. https://getbootstrap.com/
 
 ### Media
 - The photos used in this site were obtained from the author (in jpeg format) as examples of the images required.
+- Font Awesome for aeroplane icon and social media icons:[Font Awesome] https://fontawesome.com/
 
 ### Acknowledgements
 
 - I received inspiration for this project from [Ely Art Society](https://www.elyartsociety.com/)
+- Code Institute's Slack Channels and the many alunni, mentors, tutors and users who contribute to them. Especially @Malia who peer reviewed my project.
