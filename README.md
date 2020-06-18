@@ -203,7 +203,7 @@ There is no separate git branch.
 
 ### Media
 - The photos used in this site were obtained from the author (in jpeg format) as examples of the images required.
-- Font Awesome for aeroplane icon and social media icons:[Font Awesome](https://fontawesome.com/)
+- Font Awesome for menu and social media icons:[Font Awesome](https://fontawesome.com/)
 
 ### Acknowledgements
 
