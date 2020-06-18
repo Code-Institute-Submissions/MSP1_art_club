@@ -135,12 +135,14 @@ header {
     padding: 0;
     margin-left: 0.5em;
     margin-bottom: 0.5em;
-    margin-top: 0.5em;
+    font-size: 1.25rem;
 }
 .activity-timeline p {
     margin: 0;
     padding: 0;
     margin-left: 0.5em;
+    text-align: end;
+    font-size:smaller
 }
 .activity-timeline:before{
     content: attr(data-date);
