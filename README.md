@@ -199,7 +199,7 @@ There is no separate git branch.
 
 ### Content
 - The text written by author.
-- The carousels taken directly from bootstraps components. https://getbootstrap.com/
+- The carousels taken directly from bootstraps components. [Bootstrap](https://getbootstrap.com/)
 
 ### Media
 - The photos used in this site were obtained from the author (in jpeg format) as examples of the images required.
