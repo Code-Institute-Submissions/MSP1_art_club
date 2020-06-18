@@ -143,7 +143,7 @@ header {
     padding: 0;
     margin-left: 0.5em;
     text-align: end;
-    font-size:smaller
+    font-size:smaller;
 }
 .activity-timeline:before{
     content: attr(data-date);
