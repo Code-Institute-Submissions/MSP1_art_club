@@ -119,6 +119,7 @@ The font will be Roboto with a back-up of Arial.
 - An administrators page that can easily access and query the back-end member list, access to the page being password protected.
 - An image repository that can be searched on keyword, title and creator name.
 - An ability to pass comments, 'critiques', of members work.
+- Exhibitor details on exhibition page, as gallery or carousel.
 
 ## Technologies Used
 
