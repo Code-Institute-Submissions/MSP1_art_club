@@ -108,10 +108,10 @@ The font will be Roboto with a back-up of Arial.
  
 ### Existing Features
 
-- Bootstrap Image carousel used to show members' selected art work found on the home page [index.html]
-- Activities timeline detailing each date,time and location of a club organised activity found on activities page [activities.html]
-- Bootstrap Image Carousel showing either last summer's exhibition highlights, or forthcoming exhibition submissions [exhibition.html]
-- Bootstrap form component used for membership application to club [joinus.html]
+- Bootstrap Image carousel used to show members' selected art work found on the home page -index.html.
+- Activities timeline detailing each date,time and location of a club organised activity found on activities page -activities.html.
+- Bootstrap Image Carousel showing either last summer's exhibition highlights, or forthcoming exhibition submissions -exhibition.html.
+- Bootstrap form component used for membership application to club - joinus.html.
 
 ### Features Left to Implement
 
