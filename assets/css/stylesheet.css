@@ -55,11 +55,29 @@ header {
     background-color: #D9E6F3;
 }
 
+/*--------------------------------------------  carousel */
+
 /* overriding font-size on carousel captions on both main slides and exhibition*/
 .carousel-caption p {
     font-size: 0.5rem;
     line-height: 1;
 }
+
+.carousel-inner > .item > img {
+    position: relative;
+    margin: 0px auto;
+    min-width: auto;
+    height: 500px;
+    max-width: none;
+}
+
+@media (min-width: 768px) {
+    .carousel-caption p {
+        margin-bottom: 20px;
+        font-size: 21px;
+        line-height: 1.4;
+    }
+
 
 /*-------------------------------------------- navigation */
 .ui-menu-color-home {
