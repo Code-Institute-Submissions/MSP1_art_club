@@ -57,18 +57,27 @@ header {
 
 /*--------------------------------------------  carousel */
 
+.carousel-caption {
+    z-index: 10;
+}
+
 /* overriding font-size on carousel captions on both main slides and exhibition*/
 .carousel-caption p {
     font-size: 0.5rem;
     line-height: 1;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
     .carousel-caption p {
-        margin-bottom: 20px;
-        font-size: 21px;
+        font-size: 1rem;
         line-height: 1.4;
     }
+
+/* overriding bootstrap default icon size  from 10px */ 
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 50px;
+    height: 50px;
+}
 
 
 /*-------------------------------------------- navigation */
