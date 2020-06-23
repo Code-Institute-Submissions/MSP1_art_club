@@ -41,3 +41,17 @@ Testing different screen sizes:
 
 Had a separate Kindle Fire to see responsiveness on all pages of changes from landscape to portrait views.
 Landscape had button link navigation whilst portrait had 'hamburger' menu drop downs.
+
+### Peer review and feedback
+Mentor and peer review mentioned 'jumping images' on bootstrap carousel was distracting.
+After investigation with Chrome's Inspect, found that removing bootstrap suggested class 'slide' from carouselCaptions stopped the 'jumping images'.
+
+On wider screens/vewports the carousel image caption overran the image.
+Remedy was to introduce a media query for larger viewports with an override of carouselCaption paragraph of:
+
+        * width: min-content
+        * opacity: 0.75
+        * margin-left: auto
+        * margin-right: auto
+
+May not be the ideal solution.
